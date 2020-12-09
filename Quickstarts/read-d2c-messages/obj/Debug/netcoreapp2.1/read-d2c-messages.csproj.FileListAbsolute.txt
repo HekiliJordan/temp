@@ -1,0 +1,24 @@
+C:\Users\Hekili Jordan\Documents\azure-iot-samples-csharp-master\iot-hub\Quickstarts\read-d2c-messages\obj\Debug\netcoreapp2.1\read-d2c-messages.csprojAssemblyReference.cache
+C:\Users\Hekili Jordan\Documents\azure-iot-samples-csharp-master\iot-hub\Quickstarts\read-d2c-messages\obj\Debug\netcoreapp2.1\read-d2c-messages.AssemblyInfoInputs.cache
+C:\Users\Hekili Jordan\Documents\azure-iot-samples-csharp-master\iot-hub\Quickstarts\read-d2c-messages\obj\Debug\netcoreapp2.1\read-d2c-messages.AssemblyInfo.cs
+C:\Users\Hekili Jordan\Documents\azure-iot-samples-csharp-master\iot-hub\Quickstarts\read-d2c-messages\obj\Debug\netcoreapp2.1\read-d2c-messages.csproj.CoreCompileInputs.cache
+C:\Users\Hekili Jordan\Documents\azure-iot-samples-csharp-master\iot-hub\Quickstarts\read-d2c-messages\bin\Debug\netcoreapp2.1\read-d2c-messages.deps.json
+C:\Users\Hekili Jordan\Documents\azure-iot-samples-csharp-master\iot-hub\Quickstarts\read-d2c-messages\bin\Debug\netcoreapp2.1\read-d2c-messages.runtimeconfig.json
+C:\Users\Hekili Jordan\Documents\azure-iot-samples-csharp-master\iot-hub\Quickstarts\read-d2c-messages\bin\Debug\netcoreapp2.1\read-d2c-messages.runtimeconfig.dev.json
+C:\Users\Hekili Jordan\Documents\azure-iot-samples-csharp-master\iot-hub\Quickstarts\read-d2c-messages\bin\Debug\netcoreapp2.1\read-d2c-messages.dll
+C:\Users\Hekili Jordan\Documents\azure-iot-samples-csharp-master\iot-hub\Quickstarts\read-d2c-messages\bin\Debug\netcoreapp2.1\read-d2c-messages.pdb
+C:\Users\Hekili Jordan\Documents\azure-iot-samples-csharp-master\iot-hub\Quickstarts\read-d2c-messages\obj\Debug\netcoreapp2.1\read-d2c-messages.dll
+C:\Users\Hekili Jordan\Documents\azure-iot-samples-csharp-master\iot-hub\Quickstarts\read-d2c-messages\obj\Debug\netcoreapp2.1\read-d2c-messages.pdb
+C:\Users\Hekili Jordan\Documents\azure-iot-samples-csharp-master\iot-hub\Quickstarts\read-d2c-messages\obj\Debug\netcoreapp2.1\read-d2c-messages.genruntimeconfig.cache
+C:\Users\Hekili Jordan\Documents\CS 355\azure-iot-samples-csharp-master\iot-hub\Quickstarts\read-d2c-messages\bin\Debug\netcoreapp2.1\read-d2c-messages.deps.json
+C:\Users\Hekili Jordan\Documents\CS 355\azure-iot-samples-csharp-master\iot-hub\Quickstarts\read-d2c-messages\bin\Debug\netcoreapp2.1\read-d2c-messages.runtimeconfig.json
+C:\Users\Hekili Jordan\Documents\CS 355\azure-iot-samples-csharp-master\iot-hub\Quickstarts\read-d2c-messages\bin\Debug\netcoreapp2.1\read-d2c-messages.runtimeconfig.dev.json
+C:\Users\Hekili Jordan\Documents\CS 355\azure-iot-samples-csharp-master\iot-hub\Quickstarts\read-d2c-messages\bin\Debug\netcoreapp2.1\read-d2c-messages.dll
+C:\Users\Hekili Jordan\Documents\CS 355\azure-iot-samples-csharp-master\iot-hub\Quickstarts\read-d2c-messages\bin\Debug\netcoreapp2.1\read-d2c-messages.pdb
+C:\Users\Hekili Jordan\Documents\CS 355\azure-iot-samples-csharp-master\iot-hub\Quickstarts\read-d2c-messages\obj\Debug\netcoreapp2.1\read-d2c-messages.csprojAssemblyReference.cache
+C:\Users\Hekili Jordan\Documents\CS 355\azure-iot-samples-csharp-master\iot-hub\Quickstarts\read-d2c-messages\obj\Debug\netcoreapp2.1\read-d2c-messages.AssemblyInfoInputs.cache
+C:\Users\Hekili Jordan\Documents\CS 355\azure-iot-samples-csharp-master\iot-hub\Quickstarts\read-d2c-messages\obj\Debug\netcoreapp2.1\read-d2c-messages.AssemblyInfo.cs
+C:\Users\Hekili Jordan\Documents\CS 355\azure-iot-samples-csharp-master\iot-hub\Quickstarts\read-d2c-messages\obj\Debug\netcoreapp2.1\read-d2c-messages.csproj.CoreCompileInputs.cache
+C:\Users\Hekili Jordan\Documents\CS 355\azure-iot-samples-csharp-master\iot-hub\Quickstarts\read-d2c-messages\obj\Debug\netcoreapp2.1\read-d2c-messages.dll
+C:\Users\Hekili Jordan\Documents\CS 355\azure-iot-samples-csharp-master\iot-hub\Quickstarts\read-d2c-messages\obj\Debug\netcoreapp2.1\read-d2c-messages.pdb
+C:\Users\Hekili Jordan\Documents\CS 355\azure-iot-samples-csharp-master\iot-hub\Quickstarts\read-d2c-messages\obj\Debug\netcoreapp2.1\read-d2c-messages.genruntimeconfig.cache

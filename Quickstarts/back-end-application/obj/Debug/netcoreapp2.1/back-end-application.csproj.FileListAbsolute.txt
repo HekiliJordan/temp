@@ -1,0 +1,24 @@
+C:\Users\Hekili Jordan\Documents\CS 355\azure-iot-samples-csharp-master\iot-hub\Quickstarts\back-end-application\bin\Debug\netcoreapp2.1\back-end-application.deps.json
+C:\Users\Hekili Jordan\Documents\CS 355\azure-iot-samples-csharp-master\iot-hub\Quickstarts\back-end-application\bin\Debug\netcoreapp2.1\back-end-application.runtimeconfig.json
+C:\Users\Hekili Jordan\Documents\CS 355\azure-iot-samples-csharp-master\iot-hub\Quickstarts\back-end-application\bin\Debug\netcoreapp2.1\back-end-application.runtimeconfig.dev.json
+C:\Users\Hekili Jordan\Documents\CS 355\azure-iot-samples-csharp-master\iot-hub\Quickstarts\back-end-application\bin\Debug\netcoreapp2.1\back-end-application.dll
+C:\Users\Hekili Jordan\Documents\CS 355\azure-iot-samples-csharp-master\iot-hub\Quickstarts\back-end-application\bin\Debug\netcoreapp2.1\back-end-application.pdb
+C:\Users\Hekili Jordan\Documents\CS 355\azure-iot-samples-csharp-master\iot-hub\Quickstarts\back-end-application\obj\Debug\netcoreapp2.1\back-end-application.csprojAssemblyReference.cache
+C:\Users\Hekili Jordan\Documents\CS 355\azure-iot-samples-csharp-master\iot-hub\Quickstarts\back-end-application\obj\Debug\netcoreapp2.1\back-end-application.AssemblyInfoInputs.cache
+C:\Users\Hekili Jordan\Documents\CS 355\azure-iot-samples-csharp-master\iot-hub\Quickstarts\back-end-application\obj\Debug\netcoreapp2.1\back-end-application.AssemblyInfo.cs
+C:\Users\Hekili Jordan\Documents\CS 355\azure-iot-samples-csharp-master\iot-hub\Quickstarts\back-end-application\obj\Debug\netcoreapp2.1\back-end-application.csproj.CoreCompileInputs.cache
+C:\Users\Hekili Jordan\Documents\CS 355\azure-iot-samples-csharp-master\iot-hub\Quickstarts\back-end-application\obj\Debug\netcoreapp2.1\back-end-application.dll
+C:\Users\Hekili Jordan\Documents\CS 355\azure-iot-samples-csharp-master\iot-hub\Quickstarts\back-end-application\obj\Debug\netcoreapp2.1\back-end-application.pdb
+C:\Users\Hekili Jordan\Documents\CS 355\azure-iot-samples-csharp-master\iot-hub\Quickstarts\back-end-application\obj\Debug\netcoreapp2.1\back-end-application.genruntimeconfig.cache
+C:\Users\Hekili Jordan\Documents\azure-iot-samples-csharp-master\iot-hub\Quickstarts\back-end-application\bin\Debug\netcoreapp2.1\back-end-application.deps.json
+C:\Users\Hekili Jordan\Documents\azure-iot-samples-csharp-master\iot-hub\Quickstarts\back-end-application\bin\Debug\netcoreapp2.1\back-end-application.runtimeconfig.json
+C:\Users\Hekili Jordan\Documents\azure-iot-samples-csharp-master\iot-hub\Quickstarts\back-end-application\bin\Debug\netcoreapp2.1\back-end-application.runtimeconfig.dev.json
+C:\Users\Hekili Jordan\Documents\azure-iot-samples-csharp-master\iot-hub\Quickstarts\back-end-application\bin\Debug\netcoreapp2.1\back-end-application.dll
+C:\Users\Hekili Jordan\Documents\azure-iot-samples-csharp-master\iot-hub\Quickstarts\back-end-application\bin\Debug\netcoreapp2.1\back-end-application.pdb
+C:\Users\Hekili Jordan\Documents\azure-iot-samples-csharp-master\iot-hub\Quickstarts\back-end-application\obj\Debug\netcoreapp2.1\back-end-application.csprojAssemblyReference.cache
+C:\Users\Hekili Jordan\Documents\azure-iot-samples-csharp-master\iot-hub\Quickstarts\back-end-application\obj\Debug\netcoreapp2.1\back-end-application.AssemblyInfoInputs.cache
+C:\Users\Hekili Jordan\Documents\azure-iot-samples-csharp-master\iot-hub\Quickstarts\back-end-application\obj\Debug\netcoreapp2.1\back-end-application.AssemblyInfo.cs
+C:\Users\Hekili Jordan\Documents\azure-iot-samples-csharp-master\iot-hub\Quickstarts\back-end-application\obj\Debug\netcoreapp2.1\back-end-application.csproj.CoreCompileInputs.cache
+C:\Users\Hekili Jordan\Documents\azure-iot-samples-csharp-master\iot-hub\Quickstarts\back-end-application\obj\Debug\netcoreapp2.1\back-end-application.dll
+C:\Users\Hekili Jordan\Documents\azure-iot-samples-csharp-master\iot-hub\Quickstarts\back-end-application\obj\Debug\netcoreapp2.1\back-end-application.pdb
+C:\Users\Hekili Jordan\Documents\azure-iot-samples-csharp-master\iot-hub\Quickstarts\back-end-application\obj\Debug\netcoreapp2.1\back-end-application.genruntimeconfig.cache

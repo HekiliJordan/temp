@@ -1,0 +1,24 @@
+C:\Users\Hekili Jordan\Documents\CS 355\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device-2\bin\Debug\netcoreapp2.1\simulated-device-2.deps.json
+C:\Users\Hekili Jordan\Documents\CS 355\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device-2\bin\Debug\netcoreapp2.1\simulated-device-2.runtimeconfig.json
+C:\Users\Hekili Jordan\Documents\CS 355\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device-2\bin\Debug\netcoreapp2.1\simulated-device-2.runtimeconfig.dev.json
+C:\Users\Hekili Jordan\Documents\CS 355\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device-2\bin\Debug\netcoreapp2.1\simulated-device-2.dll
+C:\Users\Hekili Jordan\Documents\CS 355\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device-2\bin\Debug\netcoreapp2.1\simulated-device-2.pdb
+C:\Users\Hekili Jordan\Documents\CS 355\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device-2\obj\Debug\netcoreapp2.1\simulated-device-2.csprojAssemblyReference.cache
+C:\Users\Hekili Jordan\Documents\CS 355\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device-2\obj\Debug\netcoreapp2.1\simulated-device-2.AssemblyInfoInputs.cache
+C:\Users\Hekili Jordan\Documents\CS 355\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device-2\obj\Debug\netcoreapp2.1\simulated-device-2.AssemblyInfo.cs
+C:\Users\Hekili Jordan\Documents\CS 355\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device-2\obj\Debug\netcoreapp2.1\simulated-device-2.csproj.CoreCompileInputs.cache
+C:\Users\Hekili Jordan\Documents\CS 355\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device-2\obj\Debug\netcoreapp2.1\simulated-device-2.dll
+C:\Users\Hekili Jordan\Documents\CS 355\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device-2\obj\Debug\netcoreapp2.1\simulated-device-2.pdb
+C:\Users\Hekili Jordan\Documents\CS 355\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device-2\obj\Debug\netcoreapp2.1\simulated-device-2.genruntimeconfig.cache
+C:\Users\Hekili Jordan\Documents\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device-2\bin\Debug\netcoreapp2.1\simulated-device-2.deps.json
+C:\Users\Hekili Jordan\Documents\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device-2\bin\Debug\netcoreapp2.1\simulated-device-2.runtimeconfig.json
+C:\Users\Hekili Jordan\Documents\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device-2\bin\Debug\netcoreapp2.1\simulated-device-2.runtimeconfig.dev.json
+C:\Users\Hekili Jordan\Documents\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device-2\bin\Debug\netcoreapp2.1\simulated-device-2.dll
+C:\Users\Hekili Jordan\Documents\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device-2\bin\Debug\netcoreapp2.1\simulated-device-2.pdb
+C:\Users\Hekili Jordan\Documents\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device-2\obj\Debug\netcoreapp2.1\simulated-device-2.csprojAssemblyReference.cache
+C:\Users\Hekili Jordan\Documents\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device-2\obj\Debug\netcoreapp2.1\simulated-device-2.AssemblyInfoInputs.cache
+C:\Users\Hekili Jordan\Documents\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device-2\obj\Debug\netcoreapp2.1\simulated-device-2.AssemblyInfo.cs
+C:\Users\Hekili Jordan\Documents\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device-2\obj\Debug\netcoreapp2.1\simulated-device-2.csproj.CoreCompileInputs.cache
+C:\Users\Hekili Jordan\Documents\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device-2\obj\Debug\netcoreapp2.1\simulated-device-2.dll
+C:\Users\Hekili Jordan\Documents\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device-2\obj\Debug\netcoreapp2.1\simulated-device-2.pdb
+C:\Users\Hekili Jordan\Documents\azure-iot-samples-csharp-master\iot-hub\Quickstarts\simulated-device-2\obj\Debug\netcoreapp2.1\simulated-device-2.genruntimeconfig.cache

@@ -1,0 +1,32 @@
+C:\Users\Hekili Jordan\Documents\azure-iot-samples-csharp-master\iot-hub\Quickstarts\SendCloudToDevice\bin\Debug\SendCloudToDevice.exe.config
+C:\Users\Hekili Jordan\Documents\azure-iot-samples-csharp-master\iot-hub\Quickstarts\SendCloudToDevice\bin\Debug\SendCloudToDevice.exe
+C:\Users\Hekili Jordan\Documents\azure-iot-samples-csharp-master\iot-hub\Quickstarts\SendCloudToDevice\bin\Debug\SendCloudToDevice.pdb
+C:\Users\Hekili Jordan\Documents\azure-iot-samples-csharp-master\iot-hub\Quickstarts\SendCloudToDevice\bin\Debug\Microsoft.Azure.Amqp.dll
+C:\Users\Hekili Jordan\Documents\azure-iot-samples-csharp-master\iot-hub\Quickstarts\SendCloudToDevice\bin\Debug\Microsoft.Azure.Devices.dll
+C:\Users\Hekili Jordan\Documents\azure-iot-samples-csharp-master\iot-hub\Quickstarts\SendCloudToDevice\bin\Debug\Microsoft.Azure.Devices.Shared.dll
+C:\Users\Hekili Jordan\Documents\azure-iot-samples-csharp-master\iot-hub\Quickstarts\SendCloudToDevice\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Hekili Jordan\Documents\azure-iot-samples-csharp-master\iot-hub\Quickstarts\SendCloudToDevice\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hekili Jordan\Documents\azure-iot-samples-csharp-master\iot-hub\Quickstarts\SendCloudToDevice\bin\Debug\Microsoft.Azure.Devices.xml
+C:\Users\Hekili Jordan\Documents\azure-iot-samples-csharp-master\iot-hub\Quickstarts\SendCloudToDevice\bin\Debug\Microsoft.Azure.Devices.Shared.xml
+C:\Users\Hekili Jordan\Documents\azure-iot-samples-csharp-master\iot-hub\Quickstarts\SendCloudToDevice\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Hekili Jordan\Documents\azure-iot-samples-csharp-master\iot-hub\Quickstarts\SendCloudToDevice\obj\Debug\SendCloudToDevice.csprojAssemblyReference.cache
+C:\Users\Hekili Jordan\Documents\azure-iot-samples-csharp-master\iot-hub\Quickstarts\SendCloudToDevice\obj\Debug\SendCloudToDevice.csproj.CoreCompileInputs.cache
+C:\Users\Hekili Jordan\Documents\azure-iot-samples-csharp-master\iot-hub\Quickstarts\SendCloudToDevice\obj\Debug\SendCloudToDevice.csproj.CopyComplete
+C:\Users\Hekili Jordan\Documents\azure-iot-samples-csharp-master\iot-hub\Quickstarts\SendCloudToDevice\obj\Debug\SendCloudToDevice.exe
+C:\Users\Hekili Jordan\Documents\azure-iot-samples-csharp-master\iot-hub\Quickstarts\SendCloudToDevice\obj\Debug\SendCloudToDevice.pdb
+C:\Users\Hekili Jordan\Documents\CS 355\azure-iot-samples-csharp-master\iot-hub\Quickstarts\SendCloudToDevice\bin\Debug\SendCloudToDevice.exe.config
+C:\Users\Hekili Jordan\Documents\CS 355\azure-iot-samples-csharp-master\iot-hub\Quickstarts\SendCloudToDevice\bin\Debug\SendCloudToDevice.exe
+C:\Users\Hekili Jordan\Documents\CS 355\azure-iot-samples-csharp-master\iot-hub\Quickstarts\SendCloudToDevice\bin\Debug\SendCloudToDevice.pdb
+C:\Users\Hekili Jordan\Documents\CS 355\azure-iot-samples-csharp-master\iot-hub\Quickstarts\SendCloudToDevice\bin\Debug\Microsoft.Azure.Amqp.dll
+C:\Users\Hekili Jordan\Documents\CS 355\azure-iot-samples-csharp-master\iot-hub\Quickstarts\SendCloudToDevice\bin\Debug\Microsoft.Azure.Devices.dll
+C:\Users\Hekili Jordan\Documents\CS 355\azure-iot-samples-csharp-master\iot-hub\Quickstarts\SendCloudToDevice\bin\Debug\Microsoft.Azure.Devices.Shared.dll
+C:\Users\Hekili Jordan\Documents\CS 355\azure-iot-samples-csharp-master\iot-hub\Quickstarts\SendCloudToDevice\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Hekili Jordan\Documents\CS 355\azure-iot-samples-csharp-master\iot-hub\Quickstarts\SendCloudToDevice\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hekili Jordan\Documents\CS 355\azure-iot-samples-csharp-master\iot-hub\Quickstarts\SendCloudToDevice\bin\Debug\Microsoft.Azure.Devices.xml
+C:\Users\Hekili Jordan\Documents\CS 355\azure-iot-samples-csharp-master\iot-hub\Quickstarts\SendCloudToDevice\bin\Debug\Microsoft.Azure.Devices.Shared.xml
+C:\Users\Hekili Jordan\Documents\CS 355\azure-iot-samples-csharp-master\iot-hub\Quickstarts\SendCloudToDevice\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Hekili Jordan\Documents\CS 355\azure-iot-samples-csharp-master\iot-hub\Quickstarts\SendCloudToDevice\obj\Debug\SendCloudToDevice.csproj.CoreCompileInputs.cache
+C:\Users\Hekili Jordan\Documents\CS 355\azure-iot-samples-csharp-master\iot-hub\Quickstarts\SendCloudToDevice\obj\Debug\SendCloudToDevice.csproj.CopyComplete
+C:\Users\Hekili Jordan\Documents\CS 355\azure-iot-samples-csharp-master\iot-hub\Quickstarts\SendCloudToDevice\obj\Debug\SendCloudToDevice.exe
+C:\Users\Hekili Jordan\Documents\CS 355\azure-iot-samples-csharp-master\iot-hub\Quickstarts\SendCloudToDevice\obj\Debug\SendCloudToDevice.pdb
+C:\Users\Hekili Jordan\Documents\CS 355\azure-iot-samples-csharp-master\iot-hub\Quickstarts\SendCloudToDevice\obj\Debug\SendCloudToDevice.csprojAssemblyReference.cache
